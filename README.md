@@ -10,8 +10,7 @@ The goal is to prepare reliable, structured data for business analysis by valida
 
 ## Architecture
 
-![GCP Retail Sales Data Pipeline Architecture](docs/gcp-retail-sales-architecture.png)
-
+![GCP Retail Sales Data Pipeline Architecture](gcp-retail-sales-architecture.png)
 *Planned architecture — cloud components will be updated as they are implemented and tested.*
 
 ## Business Problem
